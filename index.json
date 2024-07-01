@@ -1,0 +1,11 @@
+{
+	"name": "life",
+	"version": "0.00",
+	"owner": "isaac",
+	"requires": {
+		"health": ["learning", "applying"],
+		"money": ["learning", "work"],
+		"freedom": ["treatment", "aim", "environment"],
+		"evolving": ["goals", "missions"]
+	}
+}

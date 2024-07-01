@@ -1,11 +1,31 @@
 {
 	"name": "life",
-	"version": "0.00",
+	"version": "0.01",
 	"owner": "isaac",
 	"requires": {
 		"health": ["learning", "applying"],
 		"money": ["learning", "work"],
 		"freedom": ["treatment", "aim", "environment"],
 		"evolving": ["goals", "missions"]
-	}
+	},
+	"skills": {
+		"to_aquire": ["how to work (income)", "maths", "how to intract with people", "mobile dev"],
+		"to_improve": ["language ability such as vocab and purnounciation certain words and spelling for sure (en)", "managing time", "typing speed"],
+		"aquired": "webdev"
+	},
+	"hobbies": ["gamedev"],
+	"goals": ["finanical income", "a better place to live in"],
+	"success_components": ["managing time", "{freedom}", "at least trying", "improve", "see a problem (design a solution)"],
+	"should": [
+		"document my life through writing (i.e everyday)",
+		"deliprate practicing",
+		"critical thinking", "make goals and missions", "aquire new skills & get better at the current ones"],
+	"what_i_said_before": [
+		"Work hard",
+		"Think deep",
+		"never waste your work",
+		"build up yourself from scratch",
+		"nothing stays perfect, time is short",
+		"everyone is gonna have a hard opinion on you, you either believe in them and become what they say, or challange yourself and beat them."
+	]
 }
